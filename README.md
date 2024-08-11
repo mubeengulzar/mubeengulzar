@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-mubeen-3669041a7/**
 
-- 📄 Know about my experiences [1 year of Experience in MERN Stack, 2 year of Experience in Web Development](1 year of Experience in MERN Stack, 2 year of Experience in Web Development)
+- 📄 Know about my experiences [1 year of Experience in MERN Stack, 2 year of Experience in Web Development]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
